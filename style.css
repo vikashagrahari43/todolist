@@ -78,7 +78,7 @@ ul span:hover{
 }
 @media (max-width: 600px){
     .container{
-    width: 310px;
+    width: 320px;
 }
 #header{
     font-size: 25px;
@@ -86,7 +86,7 @@ ul span:hover{
 #input{
     font-size: 15px;
     height:30px;
-    width:220px;
+    width:230px;
 }
 #add{
     
@@ -94,6 +94,6 @@ ul span:hover{
     font-size: 18px;
 }
 ul li {
-     font-size: 14px;
+     font-size: 15px;
 }
 }
